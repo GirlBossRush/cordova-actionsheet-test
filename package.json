@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TeffenEllis/cordova-actionsheet-test/issues"
   },
-  "homepage": "https://github.com/TeffenEllis/cordova-actionsheet-test#readme"
+  "homepage": "https://github.com/TeffenEllis/cordova-actionsheet-test#readme",
+  "devDependencies": {
+    "cordova": "5.3.3"
+  }
 }
